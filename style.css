@@ -1,0 +1,84 @@
+body{
+    text-align: center;
+    background-color:rgb(233, 222, 222) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    background-color: rgb(243, 53, 53);
+    color: aliceblue;
+}
+
+#rodape{
+    background-color: rgb(65, 65, 231);
+    padding: 30px;
+}
+
+img{
+   width: 300px;
+   height: 200px; 
+}
+
+#noticias{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.noticia{
+    text-align: center;
+    width: 300px;
+    background-color: aqua;
+    padding: 5px;
+    color: brown;
+    border-color: brown;
+    border-style: solid;
+    
+    
+}
+
+#sobre{
+    display: flex;
+    text-align: center;
+    
+    
+
+}
+
+.coisa{
+    width:33%;
+}
+
+#Aliados{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.aliado{
+    text-align: center;
+    width: 300px;
+    background-color: aqua;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    border-color: brown;
+    border-style: solid;
+
+}
+
+#viloes{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.vilao{
+    text-align: center;
+    width: 300px;
+    background-color: aqua;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+
+}
